@@ -59,5 +59,3 @@ The `PavithraUFOSighting.ipynb` notebook analyzes data related to UFO sightings.
 - **Interactive Maps**: Incorporate geospatial tools like Folium for mapping UFO sightings.  
 - **Machine Learning**: Apply clustering or predictive models to identify patterns.  
 - **Integration**: Use APIs to fetch real-time UFO sighting data for dynamic analysis.
-
-This notebook serves as a comprehensive tool for exploring and understanding UFO sighting data, enabling further research and insights.
